@@ -42,7 +42,7 @@
     <button onclick="showTab('impact')">Impact</button>
     <button onclick="showTab('research')">Research</button>
     <button onclick="showTab('future')">Future</button>
-    <button onclick="showTab('contact')">Contact</button>
+    <button onclick="showTab('contact')">Help</button>
 </nav>
 
 <section id="about">
@@ -80,23 +80,15 @@
 <section id="impact">
     <h2>Impact & Benefits</h2>
     <ul>
-        <li>Reduces PCB levels efficiently and safely.</li>
-        <li>Restores river ecosystems for wildlife.</li>
-        <li>Protects public health and supports recreation.</li>
-        <li>Boosts tourism and local property values.</li>
-        <li>Creates cleanup-related jobs in the community.</li>
-        <li>
-            Microbes metabolize PCBs, transforming highly toxic compounds into non-toxic substances, reducing chemical exposure in water, sediment, and soil.
+        <li>Reduces PCB levels efficiently and safely, minimizing long-term environmental and human health risks.</li>
+    <li>Restores river ecosystems for wildlife by removing toxins and supporting the regrowth of plants and aquatic life.</li>
+    <li>Protects public health and supports recreational activities such as fishing, boating, and swimming.</li>
+    <li>Boosts tourism and local property values by improving the safety and attractiveness of affected waterways.</li>
+    <li>Creates cleanup-related jobs in the community, providing economic benefits while supporting environmental restoration.</li>
+    <li>Microbes metabolize PCBs, transforming highly toxic compounds into non-toxic substances, reducing chemical exposure in water, sediment, and soil, and preventing bioaccumulation in the food chain.</li>
+    <li>Reactive caps stop remaining PCBs from entering the river, protecting wildlife, local communities, and downstream ecosystems from contamination.</li>
+    <li>Sensors allow real-time monitoring so cleanup strategies can be adjusted based on site conditions, increasing both safety and efficiency while providing valuable data for future remediation projects.</li>
 
-        </li>
-        <li>
-        Reactive caps stop remaining PCBs from entering the river, protecting wildlife and local communities.
-
-        </li>
-        <li>
-         Sensors allow real-time monitoring so cleanup can be adjusted based on conditions, increasing safety and efficiency.
-
-        </li>
     </ul>
    
 </section>
@@ -121,26 +113,29 @@
     <p>
     Continuous monitoring allows for timely adjustments to maximize degradation efficiency and minimize environmental impact. Future plans include expanding the system to larger contaminated sites, integrating advanced sensor technology for more precise tracking of microbial activity and PCB levels, and exploring genetically optimized microbes or enzyme cocktails to accelerate breakdown. Long-term goals also involve combining BioClean with ecological restoration projects to fully rehabilitate affected waterways and soils, making the environment safe for wildlife and local communities.
     </p>
- <img href=https://www.gdrc.org/oceans/rivers/photo-3.jpg>
+ <img src="https://www.gdrc.org/oceans/rivers/photo-3.jpg">
     
 </section>
 
 <section id="contact">
-    <h2>Help</h2>
-    <p>Donate to local charities to help fix this problem in the real world</p>
+    <h2>How to Help</h2>
+    <p>Donate to local charities to help fix this problem in the real world. Search the names mentioned below for more details and information on what they do and how you can be a part. </p>
     <div class="features">
         <div class="feature">
             <h3>CCI Camera Project </h3>
            
+           
         </div>
         <div class="feature">
             <h3>Earth Month and Days of Service</h3>
+            
         </div>
         <div class="feature">
             <h3>Community Growth through Tabling Events</h3>
             
         </div>
     </div>
+    <h2> Be the change you wish to see.</h2>
 </section>
 
 <footer>
